@@ -30,6 +30,10 @@ when "Hello" belongs to parent class and
 "world" is a private string in other class
 Use template to compail them in one string.
 ### lvl 8: absract class
-Will be soon
+write "Hello world!" in terminal.
+when " " and "!" is from abstract method.
+Use template to compail them in one string.
 ### lvl 9: interfaces
-Will be soon
+write "Hello world!" in terminal.
+when getWord() method is interfece
+Use template to compail them in one string.
